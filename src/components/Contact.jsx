@@ -44,8 +44,8 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>khotshashank1@gmail.com</p>
+		 <p>(555) 999-4327</p>
+		 <p>contact@thesipsociety.com</p>
 		</div>
 		
 		<div>
