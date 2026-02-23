@@ -50,10 +50,6 @@ Build and deploy a stunning GSAP-powered cocktail website using React and Tailwi
 And many more, including enhanced security and optimized video performance!
 
 
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
